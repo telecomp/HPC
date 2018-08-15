@@ -12,5 +12,6 @@ Farrokh Karimi
 
 **Contact:**  
 Blog: [www.telecomp.blog.ir](https://telecomp.blog.ir/)  
+eMail: [telecomp [at] aut [dot] ac [dot] ir](mailto:telecomp@aut.ac.ir)  
 Insta: [www.instagram.com/farrokhkarimi](https://www.instagram.com/farrokhkarimi/)  
-eMail: [farrokh [dot] karimi [at] sharif [dot] edu](farrokh.karimi@sharif.edu)   
+eMail: [farrokh [dot] karimi [at] sharif [dot] edu](mailto:farrokh.karimi@sharif.edu)   
